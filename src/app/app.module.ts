@@ -6,7 +6,9 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { ProtegidaComponent } from './components/protegida/protegida.component';
 import { PreciosComponent } from './components/precios/precios.component';
+//Import auth0
 import { AuthModule } from '@auth0/auth0-angular';
+
 
 import { AppRoutingModule } from './app-routing.module';
 
